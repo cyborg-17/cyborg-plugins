@@ -1,0 +1,14 @@
+[{
+  "projectUrl": "https://discord.gg/bHf5jMmYE7",
+  "provider": "Cyborg",
+  "name": "cyborgSmither",
+  "description": "cyborgSmither",
+  "id": "cyborgsmither-plugin",
+  "releases": [{
+    "date": "2023-05-20",
+    "sha512sum": "447A532D140A43271DEE499A1BD1D5231D05C6F0B62658694ED344AD7F9B8080A06D2CDB0E6294017D952B7F159F9BC8FD0F085D0974A01C158EC951E86D43B3",
+    "version": "1.0.0",
+    "url": "https://github.com/Cyborg-17/cyborg-plugins/blob/master/release/cyborgSmither-1.0.0.jar?raw=true",
+    "requires": "^1.0.0"
+  }]
+}]
